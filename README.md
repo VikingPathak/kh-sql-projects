@@ -98,4 +98,4 @@ This repository contains source code for popular SQL projects for beginners, int
 	
 </details>
 
-* [Download Source Code for Library Management](library_management.sql)
+[Download Source Code for Library Management](library_management.sql)
