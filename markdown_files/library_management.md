@@ -1,6 +1,6 @@
 # Library Management
 
-[Download Source Code for Library Management](library_management.sql)
+[Download Source Code for Library Management](/library_management.sql)
 
 ```sql
 DROP SCHEMA IF EXISTS library_management;
