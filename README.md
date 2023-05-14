@@ -31,3 +31,27 @@ This repository contains source code for popular SQL projects for beginners, int
 [View Source Code for Railway System Database](markdown_files/railway_system.md)
 
 [Download Source Code for Railway System Database](railway_system.sql)
+
+## Cooking Recipe Database
+
+[View Source Code for Cooking Recipe Database](markdown_files/cooking_recipe.md)
+
+[Download Source Code for Cooking Recipe Database](cooking_recipe.sql)
+
+## Hospital Management System
+
+[View Source Code for Hospital Management System](markdown_files/hospital_management.md)
+
+[Download Source Code for Hospital Management System](hospital_management.sql)
+
+## Billing System for a Departmental Store
+
+[View Source Code for Billing System for a Departmental Store](markdown_files/billing_system.md)
+
+[Download Source Code for Billing System for a Departmental Store](billing_system.sql)
+
+## Bus Booking System Mini Project
+
+[View Source Code for Bus Booking System Mini Project](markdown_files/bus_booking.md)
+
+[Download Source Code for Bus Booking System Mini Project](bus_booking.sql)
