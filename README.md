@@ -16,9 +16,9 @@ This repository contains source code for popular SQL projects for beginners, int
 
 ## Online Retail Application Database 
 
-[View Source Code for Online Retail Application Database ](markdown_files/online_retail_app.md)
+[View Source Code for Online Retail Application Database](markdown_files/online_retail_app.md)
 
-[Download Source Code for Online Retail Application Database ](online_retail_app.sql)
+[Download Source Code for Online Retail Application Database](online_retail_app.sql)
 
 ## Online Inventory Control Management
 
